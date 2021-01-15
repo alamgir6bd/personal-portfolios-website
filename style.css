@@ -7,8 +7,14 @@ h1{
     font-size: 50px;
     
 }
-.name-highlight{
+h2{
+    font-size: 40px;
+}
+.orange-highlight{
     color:orange
+}
+p{
+    color: dimgray;
 }
 .half-width{
     width: 40%;
@@ -37,4 +43,9 @@ section{
     border-radius: 5px;
     font-weight: 700;
     
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
